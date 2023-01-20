@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JamesZhu90" alt="JamesZhu90" /></a> </p>
 
-- 📫 How to reach me **james.zhu22@outlook.com**
+- 📫 How to reach me **jameszhu.ai.meta@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/james-zhu-236669252/)
 
